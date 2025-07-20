@@ -1,0 +1,8 @@
+# ninja log v5
+14	554	7385134568420924	CMakeFiles/RepasoArboles.dir/LinkedTree.cpp.obj	90e9489f7f296f9b
+2	361	7385136625336438	CMakeFiles/RepasoArboles.dir/main.cpp.obj	efdfa37ef2736728
+11	605	7385134568927307	CMakeFiles/RepasoArboles.dir/BasicGraph.cpp.obj	45996be16703437c
+361	417	7385136625867318	RepasoArboles.exe	d567b91c00642788
+2	630	7385134569188295	CMakeFiles/RepasoArboles.dir/binaryTree.cpp.obj	6723e3993da7f775
+17	604	7385134568927307	CMakeFiles/RepasoArboles.dir/ObjectGraph.cpp.obj	a1e1b6c2b27aefa8
+1	202	7390287994644981	build.ninja	3ef41b37ed5e38f8
